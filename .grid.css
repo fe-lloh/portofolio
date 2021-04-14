@@ -1,0 +1,28 @@
+.grid.container{
+	display: grid;
+
+
+
+}
+
+#one{ color: red;
+font-family: cursive;
+font-size: large;
+grid-area:  one }
+
+#two{
+	width:100px;
+	height: 100px;
+	grid-area: two}s
+
+#three{color: pink;
+	font-family: fantasy;
+	grid-area: three}
+
+	#four{color: purple;
+		grid-area: five;
+	}
+	#six{display: block;
+		grid-area: six}
+
+	#seven{color: blue}
